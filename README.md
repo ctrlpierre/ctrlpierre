@@ -50,7 +50,4 @@ Passionné par l'informatique scientifique et le traitement du signal, je me dir
 ### Me Contacter
 
 * **LinkedIn** : [linkedin.com/in/pierre-parodi](https://www.linkedin.com/in/pierre-parodi)
-* **Email** : [pierre09parodi@gmail.com](mailto:pierre09parodi@gmail.com)<!---
-ctrlpierre/ctrlpierre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* **Email** : [pierre09parodi@gmail.com](mailto:pierre09parodi@gmail.com)
