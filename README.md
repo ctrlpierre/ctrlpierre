@@ -22,7 +22,7 @@ Passionné par l'informatique scientifique et le traitement du signal, je me dir
 
 #### Mathématiques Appliquées
 * **[Fonctions Gamma & Bêta](https://drive.google.com/file/d/1var1youT66lL8ycIny967LWfFKm5yIVc/view?usp=drive_link)** : Analyse théorique approfondie, prolongement analytique et rédaction d'un rapport scientifique de 40 pages.
-    * *Outils : LaTeX, Analyse Complexe.*
+    * *Outils : LaTeX, Analyse.*
 
 #### Automatisation Industrielle (ARIA Électronique)
 * **Outils GMAO & VBA** : Développement de macros pour l'optimisation de la maintenance et gestion de base de données industrielle.
