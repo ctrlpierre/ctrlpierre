@@ -25,7 +25,7 @@ Passionné par l'informatique scientifique et le traitement du signal, je me dir
     * *But : Tandis que l’IA tend aujourd'hui vers la génération audio directe, ce projet propose une approche alternative - un outil capable de traduire un son existant en un patch de synthétiseur. L’enjeu est de restituer le contrôle à l’artiste, lui permettant de modeler ses sonorités pour préserver sa liberté créative.*
 
 #### Mathématiques Appliquées
-* **[Fonctions Gamma & Bêta](https://drive.google.com/file/d/1var1youT66lL8ycIny967LWfFKm5yIVc/view?usp=drive_link)** : Analyse théorique approfondie, prolongement analytique et rédaction d'un rapport scientifique de 40 pages.
+* **[Fonctions Gamma & Bêta](https://ctrlpierre.github.io/Exploration%20des%20fonctions%20Gamma%20et%20B%C3%AAta.pdf)** : Analyse théorique approfondie, prolongement analytique et rédaction d'un rapport scientifique de 40 pages.
     * *Outils : LaTeX, Analyse.*
 
 #### Automatisation Industrielle (ARIA Électronique)
