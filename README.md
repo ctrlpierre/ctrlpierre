@@ -28,7 +28,7 @@ Passionate about scientific computing, machine learning, and signal processing, 
     * *Tools: LaTeX, Beamer, Mathematical Analysis.*
 
 #### Computer Vision & AI
-* **[Sports Motion Analysis](https://github.com/ctrlpierre/analyse-geste-sportif)**: Development of a keypoint pose estimation pipeline from video frames.
+* **[Sports Motion Analysis](https://github.com/ctrlpierre/sports-motion-analysis)**: Development of a keypoint pose estimation pipeline from video frames.
     * *Tools: Python, PyTorch, OpenCV, HRNet, LSTM.*
 
 #### Industrial Automation (ARIA Électronique)
