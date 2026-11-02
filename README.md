@@ -1,6 +1,6 @@
 <div align="left">
   <h1>Pierre Parodi</h1>
-  <h3><em>Engineering Student in Image & Multimedia | Math, CS & Signal Processing</em></h3>
+  <h3><em>Engineering Student @ ENSEEIHT | Math, CS, DSP</em></h3>
 </div>
 
 ### Education
